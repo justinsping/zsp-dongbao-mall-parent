@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zsp-dongbao-oms-api" />
+        <module name="zsp-dongbao-pms-api" />
+        <module name="zsp-dongbao-cart-api" />
+        <module name="zsp-dongbao-cart-service" />
+        <module name="zsp-dongbao-sms-api" />
+        <module name="zsp-dongbao-dictionary-api" />
+        <module name="zsp-dongbao-mall-generator" />
+        <module name="zsp-dongbao-common-util" />
+        <module name="zsp-dongbao-ums-service" />
+        <module name="zsp-dongbao-ums-api" />
+        <module name="zsp-dongbao-oms-service" />
+        <module name="zsp-dongbao-tenant-service" />
+        <module name="zsp-dongbao-cms-api" />
+        <module name="zsp-dongbao-dictionary-service" />
+        <module name="zsp-dongbao-common-base" />
+        <module name="zsp-dongbao-manager-web" />
+        <module name="zsp-dongbao-pms-service" />
+        <module name="zsp-dongbao-sms-service" />
+        <module name="zsp-dongbao-portal-web" />
+        <module name="zsp-dongbao-pay-api" />
+        <module name="zsp-dongbao-pay-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zsp-dongbao-cart-api" target="1.8" />
+      <module name="zsp-dongbao-cart-service" target="1.8" />
+      <module name="zsp-dongbao-cms-api" target="1.8" />
+      <module name="zsp-dongbao-common-base" target="1.8" />
+      <module name="zsp-dongbao-common-util" target="1.8" />
+      <module name="zsp-dongbao-dictionary-api" target="1.8" />
+      <module name="zsp-dongbao-dictionary-service" target="1.8" />
+      <module name="zsp-dongbao-mall-api" target="1.8" />
+      <module name="zsp-dongbao-mall-application" target="1.8" />
+      <module name="zsp-dongbao-mall-common" target="1.8" />
+      <module name="zsp-dongbao-mall-generator" target="1.8" />
+      <module name="zsp-dongbao-mall-parent" target="1.8" />
+      <module name="zsp-dongbao-mall-service" target="1.8" />
+      <module name="zsp-dongbao-manager-web" target="1.8" />
+      <module name="zsp-dongbao-oms-api" target="1.8" />
+      <module name="zsp-dongbao-oms-service" target="1.8" />
+      <module name="zsp-dongbao-pay-api" target="1.8" />
+      <module name="zsp-dongbao-pay-service" target="1.8" />
+      <module name="zsp-dongbao-pms-api" target="1.8" />
+      <module name="zsp-dongbao-pms-service" target="1.8" />
+      <module name="zsp-dongbao-portal-web" target="1.8" />
+      <module name="zsp-dongbao-sms-api" target="1.8" />
+      <module name="zsp-dongbao-sms-service" target="1.8" />
+      <module name="zsp-dongbao-tenant-service" target="1.8" />
+      <module name="zsp-dongbao-ums-api" target="1.8" />
+      <module name="zsp-dongbao-ums-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="zsp-dongbao-cart-api" options="-parameters" />
+      <module name="zsp-dongbao-cart-service" options="-parameters" />
+      <module name="zsp-dongbao-cms-api" options="-parameters" />
+      <module name="zsp-dongbao-common-base" options="-parameters" />
+      <module name="zsp-dongbao-common-util" options="-parameters" />
+      <module name="zsp-dongbao-dictionary-api" options="-parameters" />
+      <module name="zsp-dongbao-dictionary-service" options="-parameters" />
+      <module name="zsp-dongbao-mall-generator" options="-parameters" />
+      <module name="zsp-dongbao-manager-web" options="-parameters" />
+      <module name="zsp-dongbao-oms-api" options="-parameters" />
+      <module name="zsp-dongbao-oms-service" options="-parameters" />
+      <module name="zsp-dongbao-pay-api" options="-parameters" />
+      <module name="zsp-dongbao-pay-service" options="-parameters" />
+      <module name="zsp-dongbao-pms-api" options="-parameters" />
+      <module name="zsp-dongbao-pms-service" options="-parameters" />
+      <module name="zsp-dongbao-portal-web" options="-parameters" />
+      <module name="zsp-dongbao-sms-api" options="-parameters" />
+      <module name="zsp-dongbao-sms-service" options="-parameters" />
+      <module name="zsp-dongbao-tenant-service" options="-parameters" />
+      <module name="zsp-dongbao-ums-api" options="-parameters" />
+      <module name="zsp-dongbao-ums-service" options="-parameters" />
+    </option>
+  </component>
+</project>

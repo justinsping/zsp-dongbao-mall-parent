@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-api/zsp-dongbao-cart-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-api/zsp-dongbao-cms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-api/zsp-dongbao-dictionary-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-api/zsp-dongbao-oms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-api/zsp-dongbao-pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-api/zsp-dongbao-pms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-api/zsp-dongbao-sms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-api/zsp-dongbao-ums-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-application/zsp-dongbao-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-application/zsp-dongbao-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-common/zsp-dongbao-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-common/zsp-dongbao-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-service/zsp-dongbao-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-service/zsp-dongbao-dictionary-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-service/zsp-dongbao-oms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-service/zsp-dongbao-pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-service/zsp-dongbao-pms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-service/zsp-dongbao-sms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-service/zsp-dongbao-tenant-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zsp-dongbao-mall-service/zsp-dongbao-ums-service" charset="UTF-8" />
+  </component>
+</project>
