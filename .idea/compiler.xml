@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -17,16 +18,16 @@
         <module name="zsp-dongbao-ums-service" />
         <module name="zsp-dongbao-ums-api" />
         <module name="zsp-dongbao-oms-service" />
+        <module name="zsp-dongbao-manager-web" />
+        <module name="zsp-dongbao-pay-service" />
         <module name="zsp-dongbao-tenant-service" />
-        <module name="zsp-dongbao-cms-api" />
         <module name="zsp-dongbao-dictionary-service" />
         <module name="zsp-dongbao-common-base" />
-        <module name="zsp-dongbao-manager-web" />
+        <module name="zsp-dongbao-cms-api" />
         <module name="zsp-dongbao-pms-service" />
         <module name="zsp-dongbao-sms-service" />
         <module name="zsp-dongbao-portal-web" />
         <module name="zsp-dongbao-pay-api" />
-        <module name="zsp-dongbao-pay-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
