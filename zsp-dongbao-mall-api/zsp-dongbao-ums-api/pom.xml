@@ -9,7 +9,16 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.zsp</groupId>
     <artifactId>zsp-dongbao-ums-api</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus-boot-starter</artifactId>
+            <version>3.4.3.1</version>
+        </dependency>
+    </dependencies>
 </project>

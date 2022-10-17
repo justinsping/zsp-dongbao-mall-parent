@@ -11,5 +11,12 @@
 
     <artifactId>zsp-dongbao-common-util</artifactId>
 
-
+    <dependencies>
+        <!--jwt-->
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt</artifactId>
+            <version>0.7.0</version>
+        </dependency>
+    </dependencies>
 </project>

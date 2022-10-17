@@ -36,10 +36,10 @@ public class DongbaoGenerator {
         autoGenerator.setGlobalConfig(globalConfig);
 
         DataSourceConfig dataSourceConfig = new DataSourceConfig();
-        dataSourceConfig.setUrl("jdbc:mysql://localhost:3307/zsp_dongbao_test?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai");
+        dataSourceConfig.setUrl("jdbc:mysql://localhost:3306/zsp_dongbao_test?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai");
         dataSourceConfig.setDriverName("com.mysql.cj.jdbc.Driver");
         dataSourceConfig.setUsername("root");
-        dataSourceConfig.setPassword("root");
+        dataSourceConfig.setPassword("mysql");
         dataSourceConfig.setDbType(DbType.MYSQL);
 
         autoGenerator.setDataSource(dataSourceConfig);

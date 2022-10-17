@@ -9,7 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.zsp</groupId>
     <artifactId>zsp-dongbao-mall-api</artifactId>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
         <module>zsp-dongbao-cart-api</module>
@@ -23,4 +25,12 @@
     </modules>
 
 
+
+    <dependencies>
+        <dependency>
+            <groupId>com.zsp</groupId>
+            <artifactId>zsp-dongbao-common-base</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

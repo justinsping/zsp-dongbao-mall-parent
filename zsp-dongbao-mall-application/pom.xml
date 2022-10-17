@@ -17,4 +17,12 @@
     </modules>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>com.zsp</groupId>
+            <artifactId>zsp-dongbao-common-base</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>
