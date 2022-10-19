@@ -6,6 +6,7 @@
         <artifactId>zsp-dongbao-mall-parent</artifactId>
         <groupId>com.zsp</groupId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 

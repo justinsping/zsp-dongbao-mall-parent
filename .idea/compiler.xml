@@ -2,28 +2,27 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="zsp-dongbao-oms-api" />
         <module name="zsp-dongbao-pms-api" />
-        <module name="zsp-dongbao-cart-api" />
+        <module name="zsp-dongbao-ums-service" />
         <module name="zsp-dongbao-cart-service" />
-        <module name="zsp-dongbao-sms-api" />
+        <module name="zsp-dongbao-cart-api" />
         <module name="zsp-dongbao-dictionary-api" />
         <module name="zsp-dongbao-mall-generator" />
         <module name="zsp-dongbao-common-util" />
-        <module name="zsp-dongbao-ums-service" />
         <module name="zsp-dongbao-ums-api" />
         <module name="zsp-dongbao-oms-service" />
         <module name="zsp-dongbao-manager-web" />
         <module name="zsp-dongbao-pay-service" />
         <module name="zsp-dongbao-tenant-service" />
+        <module name="zsp-dongbao-cms-api" />
         <module name="zsp-dongbao-dictionary-service" />
         <module name="zsp-dongbao-common-base" />
-        <module name="zsp-dongbao-cms-api" />
+        <module name="zsp-dongbao-sms-api" />
         <module name="zsp-dongbao-pms-service" />
         <module name="zsp-dongbao-sms-service" />
         <module name="zsp-dongbao-portal-web" />

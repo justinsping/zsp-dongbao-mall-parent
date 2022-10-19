@@ -9,6 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.zsp</groupId>
     <artifactId>zsp-dongbao-common-util</artifactId>
 
     <dependencies>

@@ -12,18 +12,23 @@
     <groupId>com.zsp</groupId>
     <artifactId>zsp-dongbao-ums-service</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <dependencies>
+        <dependency>
+            <groupId>com.zsp</groupId>
+            <artifactId>zsp-dongbao-common-base</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
         <dependency>
             <groupId>com.zsp</groupId>
             <artifactId>zsp-dongbao-ums-api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-
         <dependency>
             <groupId>com.baomidou</groupId>
-            <artifactId>mybatis-plus-core</artifactId>
-            <version>3.4.3.1</version>
-            <scope>compile</scope>
+            <artifactId>mybatis-plus-boot-starter</artifactId>
+            <version>3.0.5</version>
         </dependency>
 
         <dependency>
@@ -56,5 +61,27 @@
 
     </dependencies>
 
-
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <classifier>exec</classifier>
+                    <skip>true</skip>
+                </configuration>
+            </plugin>
+        </plugins>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+            </resource>
+        </resources>
+    </build>
 </project>
